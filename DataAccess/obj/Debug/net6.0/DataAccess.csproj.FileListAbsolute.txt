@@ -1,0 +1,61 @@
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\PRN231\Assigment02Solution_HE153199\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

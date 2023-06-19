@@ -1,0 +1,57 @@
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\BusinessObject\bin\Debug\net6.0\appsettings.json

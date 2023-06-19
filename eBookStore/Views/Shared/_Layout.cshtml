@@ -1,0 +1,55 @@
+﻿
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <div id="banner">
+                <ul>
+                    @if (Context.Session.GetString("member") is not null || Context.Session.GetString("admin") is not null)
+                    {
+                        @if (Context.Session.GetString("member")is not null)
+                        {
+                            <li><a  class="btn btn-secondary" href="~/home/profile">Profile</a></li>
+                        }
+                                    <li><a  class="btn btn-danger" href="~/home/logout">LogOut</a></li>
+                    }
+                    else
+                    {
+                                   <li><a  class="btn btn-secondary" href="~/home/authen">Login</a></li>
+                                    <li><a  class="btn btn-success" href="~/home/register">Register</a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+        @if (Context.Session.GetString("admin") is not null)
+        {
+            <div id="content-left">
+                <h3>Category</h3>
+        <ul>
+            | <a asp-controller="booksAuthors" asp-action="index">
+            <li>BooksAuthors - Manager</li></a> |
+            <a asp-controller="authors" asp-action="index">
+                <li>Authors - Manager</li></a> |
+            <a asp-controller="books" asp-action="index">
+                <li>Books - Manager</li></a> |
+            <a asp-controller="publishers" asp-action="index">
+                <li>Publisher - Manager</li></a> |
+            <a asp-controller="users" asp-action="index">
+                <li>Users - Manager</li></a> |
+        </ul>
+    </div>
+    }
+        @RenderBody()
+@*        <div id="footer">footer</div>*@
+    </div>
+</body>
+</html>

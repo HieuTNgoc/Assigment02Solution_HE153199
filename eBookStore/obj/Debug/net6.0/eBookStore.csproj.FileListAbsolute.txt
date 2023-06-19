@@ -1,0 +1,278 @@
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\appsettings.Development.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\appsettings.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.staticwebassets.runtime.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.exe
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.deps.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.runtimeconfig.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.AssemblyReference.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfoInputs.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfo.cs
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CoreCompileInputs.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cs
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\bundle\eBookStore.styles.css
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\projectbundle\eBookStore.bundle.scp.css
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\refint\eBookStore.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.genruntimeconfig.cache
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\ref\eBookStore.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CopyComplete
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cs
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\AutoMapper.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\JetBrains.Annotations.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\X.PagedList.dll
+E:\Ki 8 FPT\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\appsettings.Development.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\appsettings.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.staticwebassets.runtime.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.exe
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.deps.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.runtimeconfig.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\AutoMapper.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\JetBrains.Annotations.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\X.PagedList.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\BusinessObject.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\BusinessObject.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.AssemblyReference.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfoInputs.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfo.cs
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CoreCompileInputs.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cs
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cs
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\bundle\eBookStore.styles.css
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\projectbundle\eBookStore.bundle.scp.css
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CopyComplete
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\refint\eBookStore.dll
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.pdb
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.genruntimeconfig.cache
+E:\Ki 8 FPT\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\ref\eBookStore.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\appsettings.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.staticwebassets.runtime.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.exe
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.deps.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.runtimeconfig.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\eBookStore.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\AutoMapper.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\X.PagedList.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.AssemblyReference.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfoInputs.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfo.cs
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CoreCompileInputs.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cs
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.eBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.eBookStore.props
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eBookStore.props
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eBookStore.props
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\bundle\eBookStore.styles.css
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\scopedcss\projectbundle\eBookStore.bundle.scp.css
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CopyComplete
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\refint\eBookStore.dll
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.pdb
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\eBookStore.genruntimeconfig.cache
+D:\PRN231\HE150400_PhamMinhDuc_SE1513_Assignment2\Assigment02Solution_HE150400\eBookStore\obj\Debug\net6.0\ref\eBookStore.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\appsettings.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\eBookStore.staticwebassets.runtime.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\eBookStore.exe
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\eBookStore.deps.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\eBookStore.runtimeconfig.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\eBookStore.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\eBookStore.pdb
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\AutoMapper.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\X.PagedList.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.csproj.AssemblyReference.cache
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfoInputs.cache
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfo.cs
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CoreCompileInputs.cache
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cache
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cs
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.eBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.eBookStore.props
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eBookStore.props
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eBookStore.props
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\scopedcss\bundle\eBookStore.styles.css
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\scopedcss\projectbundle\eBookStore.bundle.scp.css
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CopyComplete
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\refint\eBookStore.dll
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.pdb
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\eBookStore.genruntimeconfig.cache
+D:\PRN231\Assigment02Solution_HE153199\eBookStore\obj\Debug\net6.0\ref\eBookStore.dll

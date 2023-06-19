@@ -1,0 +1,100 @@
+﻿@model X.PagedList.IPagedList<BusinessObject.DTO.AuthorDTO>
+@using X.PagedList.Mvc.Core
+<style>
+    .ul.pagination {
+        display: inline-block;
+        padding: 0;
+        margin: 0;
+    }
+
+    ul.pagination li {
+        display: inline;
+    }
+
+        ul.pagination li a {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            transition: background-color .3s;
+        }
+
+        ul.pagination li span {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            transition: background-color .3s;
+        }
+
+        ul.pagination li a.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        ul.pagination li a:hover:not(.active) {
+            background-color: #ddd;
+        }
+</style>
+<div id="content">
+
+    <div id="content-right">
+        <div class="path-admin">AUTHORS LIST</b></div>
+        <div class="content-main">
+            <div id="content-main-dashboard">
+                <div id="order-title">
+                    <div id="product-title-3" style="width: 20%;">
+                        <a class="btn btn-info" asp-controller="authors" asp-action="create">Create a new Authors</a>
+                    </div>
+                </div>
+                <div id="order-table">
+                                      <table class="table table-bordered">
+
+    <thead>
+        <tr>
+                           
+                           <th>AuthorId</th>
+                            <th>FullName</th>
+                            <th>Email</th>
+                            <th>Phone</th>
+                            <th>Address</th>
+                            <th>City</th>
+                            <th>State</th>
+                            <th>ZIp</th>
+                            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+                            @foreach (var item in Model)
+                            {
+                       <tr>
+                                    
+                                   <td>@item.AuthorId</td>
+                                   <td>@item.LastName @item.FirstName</td>
+                                   <td>@item.EmailAddress</td>
+                                   <td>@item.Phone</td>
+                                   <td>@item.Address</td>
+                                   <td>@item.City</td>
+                                   <td>@item.State</td>
+                                   <td>@item.Zip</td>
+                           <td>
+
+                                               <a class="btn btn-info" asp-action="edit" asp-route-id="@item.AuthorId">Update</a>
+                                               <a class="btn btn-info" asp-action="delete"  asp-route-id="@item.AuthorId" onclick="return confirm('Are you sure you want to delete this item?');">Delete</a>
+                           </td>
+                       </tr>
+                            }
+    </tbody>
+
+</table>
+                </div>
+                <div>
+                    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+                    <div class="pagination" style="margin-left: 400px">
+                        @Html.PagedListPager( Model, page => Url.Action("Index", new { page }) )
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
